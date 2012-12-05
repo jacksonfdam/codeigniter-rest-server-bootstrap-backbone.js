@@ -64,7 +64,7 @@
 |
 */
 
-$route['default_controller'] = 'portada';
+$route['default_controller'] = 'blog';
 $route['404_override'] = '';
 
 /* End of file routes.php */

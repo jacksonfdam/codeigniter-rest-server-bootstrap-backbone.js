@@ -41,7 +41,7 @@
 */
 $config['base_url']	= '';
 
-$config['base_modules']	= 'http://localhost/backbone_framework/ci_3/application/modules/';
+$config['base_modules']	= 'http://localhost/cirsbb/application/modules/';
 
 /*
 |--------------------------------------------------------------------------
